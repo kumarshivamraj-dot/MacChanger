@@ -1,3 +1,5 @@
+# MAC changer for Mac 
+
 # Usage would be like
 
 1. macchanger -V : Verbose
@@ -58,3 +60,8 @@ struct sockaddr *ifu*dstaddr;
 #define ifa_dstaddr ifa_ifu.ifu_dstaddr
 void \_ifa_data; /_ Address-specific data \*/
 };
+
+
+
+
+# Under Development (NOT Working)
